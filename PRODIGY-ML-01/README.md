@@ -12,7 +12,6 @@ This project demonstrates the implementation of a Linear Regression model to pre
 - [User Interface](#user-interface)
 - [Evaluation](#evaluation)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
@@ -94,3 +93,6 @@ The model's performance is evaluated using the following metrics:
 MAE: 23325.47
 MSE: 1613397647.38
 RMSE: 40167.98
+
+Contributing
+Contributions are welcome! Please fork this repository and submit a pull request for any improvements.
